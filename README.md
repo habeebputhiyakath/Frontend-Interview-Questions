@@ -23,7 +23,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 # HTML
 
-## Day 1
+
 
 1. ### What is HTML and what are it's basic components?
 
@@ -44,7 +44,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 5. ### What is the difference between div element and span element?
    The div element is a block-level element that is used to group and organize other HTML elements while span element is an inline-element that is used to apply style or attribute to a specific part of a block-level element.
 
-## Day 2
+
 
 6. ### What is the difference between \<b> and \<strong> tags in HTML?
 
@@ -65,7 +65,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 10. ### What is the purpose of the alt attribute in HTML?
     The alt attribute is used to provide a text description of an image for users who are unable in to see the image, such as those who use screen readers.
 
-## Day 3
+
 
 11. ### What are void elements in HTML?
 
@@ -90,7 +90,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 15. ### What is the canvas element in HTML5?
     The \<canvas> element is a container that is used to draw graphics on the web page using scripting language like javascript.
 
-## Day 4
+
 
 16. ### What is an HTML form?
 
@@ -111,7 +111,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 20. ### What is the purpose of the \<meta> tag in HTML?
     The \<meta> tag is used to provide additional information about the webpage, such as author, keywords, description which is used by search engines to understand the content of the page.
 
-## Day 5
+
 
 21. ### What is the purpose of the \<script> tag in HTML?
 
@@ -133,7 +133,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
     HTML tag is just opening or closing entity. For example \<p> and \</p> are called HTML tags. <br />
     HTML element consists of opening tag, closing tag and content(optional for content-less tags). For example: \<p> This is the content \</p>, this complete thing is called HTML element.
 
-## Day 6
+
 
 26. ### How do you change the color of bullets?
 
@@ -155,7 +155,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
     The "em" tag is a semantic tag which is used to apply emphasis to a word or phrase within a paragraph. <br />
     Example: The sentence "I really enjoyed cycling" could be written using the "em" tag to emphasize the word "really": "I \<em>really \</em> enjoyed the concert last night."
 
-## Day 7
+
 
 31. ### What is the purpose of \<header> tag?
 
@@ -176,7 +176,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 35. ### What is the purpose of \<section> tag?
     The \<section> tag is used to group together related content and can be thought of as a container for content.
 
-## Day 8
+
 
 36. ### What is the purpose of \<aside> tag?
 
@@ -197,7 +197,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 40. ### What is the purpose of \<blockquote> tag?
     The \<blockquote> tag is used to indicate that a section of text is being quoted from another source. It is used to highlight a particularly important quote.
 
-## Day 9
+
 
 41. ### What is \<datalist> tag?
 
@@ -249,7 +249,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
     | `summary`         | Specifies a summary of the contents of the table.                                                                                                                              |
     | `dir`             | Specifies the direction of the table's text. Possible values are `ltr` (left-to-right) and `rtl` (right-to-left).                                                              |
 
-## Day 10
+
 
 46. ### What is the purpose of the "data-\*" attribute in HTML?
 
@@ -286,7 +286,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 # CSS
 
-## Day 11
 
 51. ### What is CSS?
 
@@ -317,7 +316,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 55. ### What is universal selector in css?
     The universal selector is a css selector that can be used to apply styles to all elements on a page or to reset styles for all elements to their default values
 
-## Day 12
+
 
 56. ### Explain the difference between classes and IDs in CSS.
 
@@ -338,7 +337,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 60. ### What is the CSS position property and its values?
     The CSS position property controls how an element is positioned on a page. The possible values are static, relative, absolute, fixed, and sticky
 
-## Day 13
 
 61. ### What is the difference between absolute and relative positioning in CSS?
 
@@ -359,7 +357,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 65. ### What are CSS pseudo-classes? Give some examples.
     CSS pseudo-classes are selectors that target elements based on their state or position in the document. Some examples include :hover, :active, :focus, :first-child, :last-child, and :nth-child.
 
-## Day 14
+
 
 66. ### What is CSS animation?
 
@@ -380,7 +378,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 70. ### How do you optimize CSS animations for performance?
     We can optimize CSS animation for performance by using techniques like reducing the number of elements being animated, minimizing the use of box-shadow and text-shadow, and using transform and opacity instead of top, left, bottom, and right.
 
-## Day 15
+
 
 71. ### How do you debug CSS animations and troubleshoot common issues, such as animations not playing or playing too quickly?
 
@@ -401,7 +399,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 75. ### What is the difference between linear and radial gradient in CSS?
     A linear gradient creates a smooth transition between two or more colors in a straight line while the radial gradient creates a smooth transition between two or more colors in a circular shape.
 
-## Day 16
+
 
 76. ### What is flexbox?
 
@@ -422,7 +420,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 80. ### How do you center an element using flexbox?
     To center an element using flexbox, we need to set the parent container's display property to `flex` and use the `justify-content` & `align-items` properties with the value of `center`.
 
-## Day 17
+
 
 81. ### What is CSS grid?
 
@@ -447,7 +445,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 85. ### What is the difference between grid-row and grid-column in CSS Grid?
     `grid-row` is used to position an item within a row, while `grid-column` is used to position an item within a column. Both properties can take a value of either a number or a named grid line.
 
-# Day 18
 
 86. ### What is a CSS transition?
 
@@ -468,7 +465,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 90. ### How do you apply a transition to multiple properties at once?
     You can apply a transition to multiple properties at once by separating the property names with commas in the `transition-property` property. example, `transition-property: background-color, color, opacity;`
 
-# Day 19
+
 
 91. ### What are CSS 2D Transforms?
 
@@ -496,7 +493,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 95. ### What is the difference between the `translate()` and `rotate()` functions?
     The `translate()` function is used to move an element along the x-axis and/or y-axis, while the `rotate()` function is used to rotate an element clockwise or counterclockwise around a given point.
 
-# Day 20
+
 
 96. ### What are the properties of CSS 3D transform?
 
@@ -524,7 +521,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 100.  ### what is css filter?
       CSS filters are a set of visual effects that can be applied to HTML elements using CSS. Filters can be used to adjust the appearance of an element in various ways, such as changing its color, blurring or sharpening it, adjusting its brightness or contrast, and more.
 
-# Day 21
+
 
 101. ### What are some important considerations when using text effects?
 
@@ -545,7 +542,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 105. ### What is the :visited pseudo-class used for in CSS?
      The :visited pseudo-class is used to target a link that has been visited by the user.
 
-# Day 22
+
 
 106. ### How do you target the first letter of a text element using a pseudo-selector in CSS?
 
@@ -566,7 +563,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 110. ### What is the @media rule in CSS?
      The @media rule in CSS allows developers to apply styles to a web page based on the size of the device or screen being used to view it, making it more responsive.
 
-# Day 23
+
 
 111. ### What is the difference between fluid and fixed layouts in CSS?
 
@@ -587,7 +584,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 115. ### How do you optimize responsive images for faster loading in CSS?
      To optimize responsive images for faster loading in CSS, you can use smaller file formats like JPEG and PNG, reduce the image size and resolution, and use lazy loading to only load images when they are needed.
 
-# Day 24
+
 
 116.  ### How does calc() work in css?
 
@@ -609,7 +606,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 120.  ### Explain what are web-safe fonts and fallback fonts.
       Web-safe fonts are fonts that are commonly installed on most devices and web browsers. Fallback fonts are alternative fonts specified in case the primary font is not available on the user's device.
 
-# Day 25
+
 
 121. ### What is the purpose of CSS content property?
 
@@ -630,7 +627,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 125. ### Which property is used to control the scrolling of an image in the background?
      The `background-attachment` property is used to control the scrolling of an image in the background.
 
-# Day 26
+
 
 126. ### Which CSS property is used to capitalize text or convert text to uppercase or lowercase letters?
 
@@ -651,7 +648,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 130. ### What are the potential drawbacks of using CSS frameworks such as Bootstrap?
      Using CSS frameworks like Bootstrap can lead to bloated code, difficulties in customizing the design, and unoriginal or generic looks
 
-# Day 27
+
 
 131. ### What is Tailwind CSS?
 
@@ -672,7 +669,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 135. ### What are some common performance issues with TailwindCSS, and how do you optimize performance in your projects?
      Common performance issues with TailwindCSS include the size of the CSS file and the number of classes being generated. To optimize performance, it is important to enable the purge option in a production environment, use a caching mechanism to speed up builds, and avoid generating unnecessary classes.
 
-# Day 28
 
 136. ### What is CSS preprocessor?
 
@@ -693,7 +689,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 140. ### Can you describe a situation where you would choose not to use Sass?
      A developer might choose not to use Sass if they prefer to stick with standard CSS for simplicity or if they are working on a small project where the added features of Sass may not be necessary.
 
-# Day 29
+
 
 141. ### What is SASS nesting?
 
@@ -763,7 +759,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      }
      ```
 
-# Day 30
+
 
 146. ### What are some common mistakes that developers make when writing CSS, and how do you avoid them?
 
@@ -790,7 +786,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 # Javascript
 
-# Day 31
+
 
 151. ### What is javascript?
 
@@ -811,7 +807,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 155. ### How do you convert a string to a number in JavaScript?
      You can use the `Number()` or `parseFloat()` functions to convert a string to a number in JavaScript.
 
-# Day 32
+
 
 156. ### What is the purpose of the array slice method?
 
@@ -836,7 +832,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 160. ### What are first class function?
      First-class functions means when functions in that language are treated like any other variable. This means that functions can be assigned to variables, passed as arguments to other functions, and returned from functions.
 
-# Day 33
+
 
 161. ### What is a pure function?
 
@@ -857,7 +853,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 165. ### What are modules in javascript?
      Modules are a way of organizing code into separate files or components that can be reused in different parts of an application. Modules allow you to encapsulate data and functionality, making your code more organized and easier to maintain
 
-# Day 34
+
 
 166. ### What is a closure in JavaScript?
 
@@ -891,7 +887,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 170. ### What is the purpose of the "use strict" statement in JavaScript?
      The "use strict" statement is used to enable strict mode in JavaScript, which helps to prevent common errors and make the code more secure. It prevents things like use of undeclared variable, use of keywords as variable name, using duplicate property names in objects, etc.
 
-# Day 35
+
 
 171.  ### What is a cookie in javascript?
 
@@ -917,7 +913,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 175.  ### What are promises in JavaScript?
       Promises in JavaScript are a way of handling async operations. They help us write async code that looks and behaves like sync code, making it easier to read and maintain. Promises have three states: pending, fulfilled, and rejected.
 
-# Day 36
+
 
 176. ### Who created Javascript?
 
@@ -938,7 +934,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 180. ### How do you find operating system details in javascript?
      In JavaScript, you can find the operating system details of the user by accessing the `navigator` object, which contains information about the user's browser and environment.
 
-# Day 37
+
 
 181. ### What is the Document Object Model (DOM)?
 
@@ -959,7 +955,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 185. ### What is the role of the Window object in the DOM?
      The Window object in the DOM represents the browser window or tab that displays the web page. It provides methods and properties for controlling and manipulating the browser window.
 
-# Day 38
 
 186. ### What is a DOM node in JavaScript?
 
@@ -980,7 +975,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 190. ### What is an event loop?
      The event loop in JavaScript handles asynchronous operations by queuing them up and processing them one by one in a non-blocking way. It checks the event queue continuously and processes the oldest operation first. When an operation is completed, its callback function is executed.
 
-# Day 39
+
 
 191. ### What is BOM?
 
@@ -1011,7 +1006,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      window.location.replace("https://www.example.com");
      ```
 
-# Day 40
+
 
 196. ### What is a JavaScript object?
 
@@ -1049,7 +1044,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 200. ### What is a JSON?
      JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications .
 
-# Day 41
+
 
 201. ### What is Class in JavaScript?
 
@@ -1079,7 +1074,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
      4. Readability: Classes provide a clean and organized way to structure your code, which can make it easier to read and understand.
 
-# Day 42
+
 
 206.  ### Can you explain the concept of method overriding in a class in JavaScript?
 
@@ -1103,7 +1098,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 210.  ### what is the purpose of `super()` in javascript classes?
       The `super()` keyword in JavaScript is used to call a method or constructor of a parent class from within a subclass. It allows a subclass to inherit and use functionality from the parent class, while also adding its own functionality.
 
-# Day 43
+
 
 211. ### What is a private class field in JavaScript?
 
@@ -1124,7 +1119,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 215. ### Can you explain the concept of instance variables in a class in JavaScript?
      In JavaScript, instance variables are properties of an object that are specific to an instance of a class. When we create a new instance of a class using the `new` keyword, each instance has its own set of instance variables that are separate from other instances.
 
-# Day 44
+
 
 216. ### What is the difference between a class and a function in JavaScript?
 
@@ -1145,7 +1140,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 220. ### Can you explain the concept of polymorphism in classes in JavaScript?
      Polymorphism in JavaScript classes means that different objects can share the same methods, even if they belong to different classes. This allows us to reuse code across multiple classes and write more flexible, maintainable code.
 
-# Day 45
 
 221.  ### What is prototype in javascript?
 
@@ -1171,7 +1165,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
       | Accessed using the `prototype` property of the constructor function               | Accessed using the `new` keyword followed by the constructor function  |
       | Modifying the prototype affects all instances created by the constructor function | Modifying the constructor function does not affect existing instances  |
 
-### Day 46
+#46
 
 226. ### How do you add properties and methods to an object's prototype in JavaScript?
 
@@ -1201,7 +1195,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 230. ### What is the difference between Object.create() and new Object() in JavaScript?
      The main difference between `new Object()` and `Object.create()` is that `new Object()` creates a new object from scratch, while `Object.create()` creates a new object that inherits from an existing object.
 
-# Day 47
+
 
 231. ### What is a regular expression(regex)?
 
@@ -1237,7 +1231,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
      On the other hand, if we want to match the letter "a" followed by one or more "b" characters, we would use the plus sign in our regular expression like this: /ab+/
 
-# Day 48
+
 
 236. ### How do you use the question mark (?) in regular expressions?
 
@@ -1258,7 +1252,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 240. ### How do you use the pipe (|) operator in regular expressions?
      The pipe (|) operator is used in regular expressions to match either one pattern or another. For example, the regular expression "cat|dog" will match either "cat" or "dog". You can also use parentheses to group patterns together when using the pipe operator. For example, the regular expression "(red|green|blue) car" will match "red car", "green car", or "blue car".
 
-# Day 49
 
 241. ### What is the purpose of the caret (^) and dollar sign ($) characters in regular expressions?
 
@@ -1280,7 +1273,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
      Lookarounds in regular expressions allow you to look ahead or behind the current position in the string without including the matched text in the result. Positive lookaheads (?=) and negative lookaheads (?!), as well as positive lookbehinds (?<=) and negative lookbehinds (?<!), are the four types of lookarounds that can be used.
 
-# Day 50
+
 
 246. ### What is the `window.location` object in JavaScript?
 
@@ -1321,7 +1314,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      const id = new URLSearchParams(window.location.search).get("id");
      ```
 
-# Day 51
+
 
 251. ### What is the Date object in JavaScript?
 
@@ -1364,7 +1357,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      console.log(date); // Output: the date 3 days from now
      ```
 
-# Day 52
+
 
 256. ### what is iterator in javascript?
 
@@ -1387,7 +1380,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 260. ### What is throttling?
      Throttling is a technique used in JavaScript to control the rate at which a particular function or code block is executed. It ensures that the function is called at a maximum frequency or a specified interval, preventing it from being invoked too frequently.
 
-# Day 53
+
 
 261. ### What is debouncing?
 
@@ -1408,7 +1401,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 265. ### What is a scope chain in JavaScript's function execution context?
      The scope chain is a list of all the variable environments that are accessible to the function. It is used to resolve variable references during the function's execution. When a variable is not found in the current variable environment, JavaScript looks up the scope chain to find the variable in outer environments until it reaches the global execution context.
 
-# Day 54
+
 
 266. ### What is Minification?
 
@@ -1449,7 +1442,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      cities.length = 0; // cities becomes []
      ```
 
-# Day 55
+
 
 271. ### What is a lambda function?
 
@@ -1487,7 +1480,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      //fruitSalad = ["kiwi", "grape", "apple", "banana", "orange", "melon"]
      ```
 
-# Day 56
+
 
 276. ### Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
 
@@ -1510,7 +1503,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 280. ### What is the data type of variables in JavaScript?
      All variables in JavaScript are object data types.
 
-# Day 57
+
 
 281. ### What is the difference between a prototype and an instance?
 
@@ -1565,8 +1558,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
         console.log(x); // Output: ReferenceError: x is not defined
         ```
 
-# Day 58
-
 286. ### What are the different types of errors in JavaScript?
 
      There are three types of errors:
@@ -1590,7 +1581,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 290. ### When to Use Internal and External JavaScript Code?
      If you have only a few lines of code that is specific to a particular webpage. In that case, it is better to keep your JavaScript code internal within your HTML document. On the other hand, if your JavaScript code is used in many web pages, you should consider keeping your code in a separate file.If your code is too long, it is better to keep it in a separate file. This helps in easy debugging.
 
-# Day 59
+
 
 291. ### What is npm?
 
@@ -1611,7 +1602,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 295. ### What is a blocking function?
      A blocking function is a type of function that halts the execution of the program until it completes its task or receives a response.
 
-# Day 60
+
 
 296. ### What is Function Composition?
 
@@ -1633,7 +1624,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 300. ### What is a PWA?
      PWAs (Progressive Web Apps) are web applications that use JavaScript, HTML, and CSS to provide a mobile app-like experience. They work offline, send push notifications, and can be installed on devices. PWAs combine the best of web and app technologies, allowing users to access them directly through web browsers without the need for app store downloads.
 
-# Day 61
+
 
 301. ### What is nullish coalescing operator (??)?
      It is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined, and otherwise returns its left-hand side operand. This can be contrasted with the logical OR (||) operator, which returns the right-hand side operand if the left operand is any falsy value, not only null or undefined.
@@ -1659,7 +1650,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 305. ### What are the different ways to optimize JavaScript code?
      To optimize JavaScript code, you can combine and minify files, minimize global variables, optimize loops and conditionals, use efficient data structures and algorithms, cache data, leverage asynchronous programming, and optimize DOM manipulation.
 
-# Day 62
+
 
 306. ### What is the difference between undeclared & undefined?
 
@@ -1694,7 +1685,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 310. ### What does delete do in JavaScript?
      The `delete` operator is used for deleting an object’s property or key.
 
-# Day 63
+
 
 311. ### What is control flow function?
 
@@ -1733,7 +1724,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      not an instance of the String constructor)
      ```
 
-# Day 64
+
 
 316. ### What are the drawbacks of prototypal inheritance?
 
@@ -1754,7 +1745,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 320. ### What are the drawbacks of using the "delete" operator in JavaScript?
      The "delete" operator in JavaScript has drawbacks. It can be slow and impact performance when deleting object properties. It does not affect the prototype chain, leading to unexpected behavior. It also cannot delete variables or functions declared with "var" or "function" keywords.
 
-# Day 65
+
 
 321. ### What are the advantages of using closures in JavaScript?
 
@@ -1775,7 +1766,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 325. ### Can you explain the benefits of using the "this" keyword and how it differs in different contexts in JavaScript?
      The "this" keyword in JavaScript allows objects to refer to their own properties and methods dynamically, adapting to different execution contexts and enabling code reusability.
 
-# Day 66
+
 
 326. ### What resources or techniques do you use to stay up to date with the latest developments in JavaScript?
 
@@ -1808,7 +1799,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 # ReactJS
 
-# Day 67
+
 
 331. ### What is ReactJS?
 
@@ -1829,7 +1820,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 335. ### Explain the concept of virtual DOM in ReactJS.
      Virtual DOM is a lightweight copy of the actual DOM maintained by React. It allows React to efficiently update and render components by calculating the optimal changes needed and applying them to the real DOM.
 
-# Day 68
+
 
 336. ### What are the components in ReactJS?
 
@@ -1850,7 +1841,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 340. ### What are the lifecycle methods in ReactJS and how do they work?
      Lifecycle methods in ReactJS are special methods that are invoked at different stages of a component's lifecycle. They allow developers to perform specific actions at certain points, such as initializing state, updating the UI, or cleaning up resources. Examples of lifecycle methods include "componentDidMount," "componentDidUpdate," and "componentWillUnmount." They provide hooks to execute code at specific moments during the component's lifespan.
 
-# Day 69
+
 
 341. ### What is a higher-order component (HOC) in ReactJS?
 
@@ -1871,7 +1862,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 345. ### What is the significance of the "React.Fragment" component?
      "React.Fragment" is a component in ReactJS that allows you to group multiple elements without adding extra DOM elements. It helps keep the rendered output clean and is particularly useful when you don't want to introduce additional wrappers or nesting levels.
 
-# Day 70
+
 
 346. ### How does React handle event handling?
 
@@ -1892,7 +1883,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 350. ### Explain the concept of React Hooks and their benefits.
      React Hooks provide a way to reuse stateful logic without writing a class component. Hooks enable developers to manage component state, handle side effects, and tap into the React lifecycle in a more straightforward and flexible manner. They offer benefits like improved code readability, reusability, and easier testing. Some commonly used hooks include useState, useEffect, and useContext.
 
-# Day 71
+
 
 351. ### Can web browsers read JSX directly?
 
@@ -1913,7 +1904,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 355. ### When do we prefer to use a class component over a function component?
      If a component needs state or lifecycle methods, we should use the class component; otherwise, use the function component. However, after React 16.8, with the addition of Hooks, you could use state, lifecycle methods, and other features that were only available in the class component right in your function component.
 
-# Day 72
+
 
 356. ### How do you handle forms in React?
 
@@ -1934,7 +1925,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 360. ### Explain the concept of lazy loading in React.
      Lazy loading in React is a technique used to optimize performance by loading components or resources only when they are needed. Instead of loading all components upfront, you can dynamically import them using the React.lazy function and render them when required. This helps reduce the initial bundle size and improves the loading speed of your application.
 
-# Day 73
+
 
 361. ### What is useEffect hook?
 
@@ -1955,7 +1946,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 365. ### When would you use the useCallback hook in React? How does it differ from the useMemo hook?
      The useCallback hook in React is like useMemo, but it memoizes functions instead of values. It's handy when passing callbacks to child components because it avoids unnecessary re-renders. By memoizing the function, it ensures that the same function instance is returned as long as the dependencies (inputs) remain unchanged. This optimization can improve performance in certain situations by preventing unnecessary function recreations.
 
-# Day 74
+
 
 366. ### What happens when you call setState?
 
@@ -1976,7 +1967,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 370. ### What is the impact of indexes as keys?
      Using indexes as keys in React can cause problems. When components are rendered using indexes as keys, React may not properly update or reorder them when the order changes. This can result in incorrect rendering, loss of component state, and slower performance. It's better to use unique and stable identifiers as keys to avoid these issues and ensure that components are updated correctly.
 
-# Day 75
+
 
 371. ### What is prop drilling in react?
 
@@ -1997,7 +1988,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 375. ### Why React uses className over class attribute?
      React uses `className` instead of `class` in HTML because `class` is a reserved keyword in JavaScript. Using `class` would cause conflicts with JavaScript syntax. So, to avoid issues, React uses `className` for specifying CSS classes on elements. This allows developers to apply CSS classes to React components without running into conflicts or JavaScript errors.
 
-# Day 76
+
 
 376. ### Why we should not update state directly?
 
@@ -2018,7 +2009,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 380. ### Explain why and when would you use `useMemo()`?
      You would use `useMemo()` in React when you want to optimize performance by memoizing the result of a function or computation. It is used to avoid unnecessary calculations or expensive operations by caching the computed value until its dependencies change. By using `useMemo()`, you can ensure that the computation is only performed when necessary, reducing the workload on the application and improving efficiency.
 
-# Day 77
+
 
 381. ### When shall we use useReducer hook in ReactJS?
 
@@ -2039,7 +2030,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 385. ### What are the advantages of styled components?
      Styled components in React can be more complex and have a higher learning curve compared to traditional CSS stylesheets. Defining styles within JavaScript may require developers to adapt their workflow and understand CSS-in-JS concepts. Additionally, the generated class names for styled components can be less readable, making debugging more challenging
 
-# Day 78
+
 
 386. ### Why props cannot be updated in ReactJS?
 
@@ -2060,7 +2051,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 390. ### What are the differences between React and React Native?
      React is a JavaScript library used for building web user interfaces, while React Native is a framework for developing native mobile applications. React renders components to the web browser using virtual DOM, while React Native renders components directly to native UI elements for iOS and Android platforms, resulting in a more native-like experience.
 
-# Day 79
+
 
 391. ### Is React a library or a Framework and why?
 
@@ -2081,7 +2072,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 395. ### What is React Dev Tool?
      React DevTools is a browser extension that helps developers debug and inspect React applications. It allows you to see the component structure, check and modify component data, and analyze performance. It's a useful tool for understanding how React components work and finding and fixing issues in your code.
 
-# Day 80
+
 
 396. ### What is "React Node" in react?
 
@@ -2102,7 +2093,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 400. ### Can you explain React's "lifting state up" concept and why it is important?
      "Lifting state up" is a concept in React where you move the shared state of multiple components to their common parent component. By doing this, you establish a single source of truth for the shared state, allowing you to pass down the state and related functions as props to child components. It enables better data flow, state management, and enhances performance by reducing unnecessary re-rendering.
 
-# Day 81
+
 
 401. ### What is a ref in React and what is its purpose?
 
@@ -2123,7 +2114,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 405. ### How do refs affect the component lifecycle in React?
      Refs in React do not directly impact the component lifecycle. They provide a way to access and interact with elements or components separately from lifecycle methods. Refs allow you to work with specific parts of the component without affecting its lifecycle or rendering.
 
-# Day 82
 
 406. ### What are the benefits of using callback refs over string refs?
 
@@ -2144,7 +2134,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 410. ### How do you access the DOM node using refs in React?
      Accessing the DOM node using refs in React is straightforward. After creating a ref using the `useRef` hook or the `React.createRef()` function, you can attach the ref to a JSX element using the `ref` attribute. Once the component has rendered, you can access the DOM node by referring to the current property of the ref.
 
-# Day 83
+
 
 411. ### What is binding in React and why is it important?
 
@@ -2165,7 +2155,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 415. ### Explain the difference between binding in class components and functional components in React.
      Binding functions in class components is done using the constructor or arrow function syntax, while functional components don't require explicit binding as they automatically bind functions to the component instance.
 
-# Day 84
+
 
 416. ### What is the difference between Element and Component in React?
 
@@ -2186,7 +2176,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 420. ### how is React different from Angular?
      ReactJS is a JavaScript library focused on building user interfaces using reusable components, while Angular is a comprehensive framework following the MVC/MVVM patterns. React uses JavaScript and JSX, whereas Angular is based on TypeScript. React has a simpler learning curve, a large community, and a lightweight nature, while Angular offers a complete solution with a steeper learning curve, a robust ecosystem provided by Google, and built-in features. The choice depends on project needs, team preferences, and scalability requirements.
 
-# Day 85
+
 
 421. ### Explain the use of CSS modules in React.
 
@@ -2207,7 +2197,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 425. ### Are there any limitations or considerations when using custom hooks in React? Are there any performance implications or potential pitfalls that developers should be aware of?
      Custom hooks in React don't have built-in limitations or performance issues. Just keep an eye on any dependencies and side effects in your custom hooks. Also, remember to follow the rules of hooks like calling them at the top level and avoiding conditional usage. By being aware of these considerations, you can effectively use custom hooks in your React applications.
 
-# Day 86
+
 
 426. ### What is Formik, and why would you use it in a React application?
 
@@ -2228,7 +2218,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 430. ### What is Material-UI, and what is its purpose in React development?
      Material-UI is a React component library that implements Google's Material Design guidelines. It offers pre-designed and customizable UI components, making it easier to build visually appealing and user-friendly interfaces. With Material-UI, developers can focus on functionality while simplifying the process of styling and creating responsive layouts.
 
-# Day 87
+
 
 431. ### What is render hijacking in react?
 
@@ -2255,7 +2245,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 435. ### Why does strict mode render twice in React?
      Strict mode in React renders components twice to provide additional checks and useful warnings. It acts as a safeguard that catches possible issues in your code. By rendering twice, React can detect and alert you about problems like unintended side effects or outdated practices. This way, you can fix those issues before they cause any trouble in your application, making it more reliable and sturdy.
 
-# Day 88
 
 436. ### What is React Fiber?
 
@@ -2276,7 +2265,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 440. ### Explain DOM diffing?
      DOM diffing, or reconciliation in React, is the process of comparing the previous and new versions of the user interface. It identifies the changes and updates needed for the actual web page. React determines what has changed, adds or removes elements, and updates only the necessary parts of the user interface. This makes the updates faster and more efficient by avoiding unnecessary re-rendering and manipulation of the web page.
 
-# Day 89
+
 
 441. ### What are the dependencies in the dependency array of the useEffect hook? How do they affect the behavior of the hook?
 
@@ -2310,7 +2299,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 445. ### What are the potential pitfalls or common mistakes when using the useEffect hook? How can you avoid them?
      Some common mistakes with useEffect are: forgetting dependencies, causing stale data or infinite loops; not cleaning up properly, leading to memory leaks; and modifying state or props without proper dependency management, resulting in unexpected behavior. To avoid these, include all dependencies, update state or props conditionally, perform cleanup operations, and handle errors appropriately.
 
-# Day 90
+
 
 446. ### What is server-side rendering (SSR) in React.js?
 
@@ -2331,7 +2320,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 450. ### What are the performance implications of server-side rendering in React.js?
      Server-side rendering can improve performance by reducing the time required for the initial render, but it can also increase the server load and network traffic for subsequent or additional requests.
 
-# Day 91
+
 
 451. ### How can you implement server-side rendering with React.js without using frameworks like Next.js?
 
@@ -2352,7 +2341,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 455. ### What considerations should you keep in mind when implementing server-side rendering for a large-scale React.js application?
      Considerations for server-side rendering in large-scale React.js applications include optimizing performance, managing data fetching efficiently, and dealing with complex application states.
 
-# Day 92
+
 
 456. ### Can you explain the concept of code splitting and how it relates to server-side rendering in React.js?
 
@@ -2373,7 +2362,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 460. ### Can you explain the concept of hydration in the context of server-side rendering in React.js?
      Hydration in server-side rendering refers to the process of attaching event listeners and reattaching React components on the client-side after the initial server-rendered HTML has been received. It enables interactivity and seamless transition to client-side rendering.
 
-# Day 93
+
 
 461. ### What are the best practices for organizing and structuring a React application?
 
@@ -2396,7 +2385,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 
 # Typescript
 
-# Day 94
+
 
 466. ### What is TypeScript, and how does it differ from JavaScript?
 
@@ -2417,7 +2406,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 470. ### What is tuple datatype in TypeScript?
      In TypeScript, a tuple is a type that allows you to define an array with a fixed number of elements of different types. Tuples are similar to arrays, but the types of elements in a tuple are fixed and their order matters. Tuples are useful when you want to work with a specific set of values, each with its own type, and maintain their order throughout the program.
 
-# Day 95
+
 
 471. ### What is the purpose of type annotations in TypeScript, and how are they used?
      The purpose of type annotations in TypeScript is to specify the types of variables, function parameters, and return values. They help catch errors during development and provide better tooling support. Annotations are used by adding a colon after the variable or function parameter name, followed by the type.
@@ -2434,7 +2423,6 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
 475. ### How does TypeScript support class-based object-oriented programming?
      TypeScript supports class-based object-oriented programming. It allows defining classes, inheritance, access modifiers (public, private, protected), abstract classes, and interfaces for contracts. It enforces type checking and helps organize complex class hierarchies and interactions.
 
-# Day 96
 
 476. ### What is the use of the tsconfig.json file?
      The tsconfig.json file is used in TypeScript to configure the compiler options for a project. It allows developers to specify settings such as target version, module system, output directory, and more.
@@ -2452,7 +2440,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      The "readonly" modifier in TypeScript is used to make properties or array elements read-only, meaning they cannot be modified once initialized. It provides a way to enforce immutability and prevent accidental modifications to certain values. When applied to properties, it prevents reassignment, and when applied to arrays, it disallows adding or removing elements after initialization.
 
 
-# Day 97
+
 
 481. ### Can TypeScript be used for the backend?
      Yes, TypeScript can be used for backend development. TypeScript is a superset of JavaScript that adds static typing and other features to JavaScript, making it more suitable for larger, complex applications. It can be used with popular backend frameworks and platforms such as Node.js to build server-side applications.
@@ -2494,7 +2482,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
        const key3: PersonKeys = 'address'; //Error
        ```
 
-# Day 98
+
 
 486. ### Explain the difference between "interface" and "class" in TypeScript.
       An interface in TypeScript is used to describe the structure of an object, without providing an implementation. It defines the properties and methods that an object should have. On the other hand, a class is a blueprint for creating objects that encapsulates data and behavior. It allows you to create instances of objects, implement interfaces, and leverage object-oriented programming concepts like inheritance and encapsulation. 
@@ -2533,7 +2521,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      val = 123;     // Valid
      val = true;    // Error, as boolean is not part
      ```
-# Day 99
+
 
 491. ### Which TypeScript types are immutable?
      In TypeScript, all primitive data types, such as strings, numbers, booleans, etc., are immutable, meaning that the value cannot be changed more than once. Additionally, it means that passing them to functions has no negative impacts.
@@ -2560,7 +2548,7 @@ This repo will contain 500 frontend interview questions which will have HTML, CS
      let box: Box = { height: 5, width: 6, scale: 10 };
      ```
 
-# Day 100
+
 
 496. ### What are the Disadvantages of TypeScript?
      TypeScript has a few drawbacks. It requires extra time and effort to annotate types, which can slow down development. It also has a learning curve, especially for developers new to static typing. The compilation step can add complexity to the workflow, and integrating TypeScript with existing JavaScript codebases may require extra work and introduce compatibility challenges.
